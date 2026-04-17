@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 from collections import defaultdict
 
-dataset_path = r"D:\Allianz\object-detection\DL_Dataset"   
+dataset_path = r"         "   
 
 SPLITS = ['train', 'valid', 'test']
 
